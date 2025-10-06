@@ -1,0 +1,6 @@
+[submodule "EMPRESS-IGNITION"]
+	path = EMPRESS-IGNITION
+	url = https://github.com/72X72/EMPRESS-IGNITION
+[submodule "EMPRESS72"]
+	path = EMPRESS72
+	url = https://github.com/72X72/EMPRESS72
