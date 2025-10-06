@@ -1,0 +1,85 @@
+{
+  "timestamp": "2025-09-30 14:24:23",
+  "os": "Linux",
+  "platform": "Linux-4.19.127+-aarch64-with-libc",
+  "can_bind_ports": true,
+  "can_access_proc": true,
+  "passwd_exists": true,
+  "daemon_support": false,
+  "elevation_paths": [
+    "sudo",
+    "su",
+    "capsh"
+  ],
+  "android_intents": "no_android_intents",
+  "cloud_metadata": "no_cloud_metadata",
+  "terrain_valid": true
+}
+{
+  "timestamp": "2025-09-30 14:35:53",
+  "os": "Linux",
+  "platform": "Linux-4.19.127+-aarch64-with-libc",
+  "can_bind_ports": true,
+  "can_access_proc": true,
+  "passwd_exists": true,
+  "daemon_support": false,
+  "elevation_paths": [
+    "sudo",
+    "su",
+    "capsh"
+  ],
+  "android_intents": "no_android_intents",
+  "cloud_metadata": "no_cloud_metadata",
+  "terrain_valid": true
+}
+{
+  "timestamp": "2025-09-30 16:12:34",
+  "os": "Linux",
+  "platform": "Linux-4.19.127+-aarch64-with-libc",
+  "can_bind_ports": true,
+  "can_access_proc": true,
+  "passwd_exists": true,
+  "daemon_support": false,
+  "elevation_paths": [
+    "sudo",
+    "su",
+    "capsh"
+  ],
+  "android_intents": "no_android_intents",
+  "cloud_metadata": "no_cloud_metadata",
+  "terrain_valid": true
+}
+{
+  "timestamp": "2025-09-30 18:28:59",
+  "os": "Linux",
+  "platform": "Linux-4.19.127+-aarch64-with-libc",
+  "can_bind_ports": true,
+  "can_access_proc": true,
+  "passwd_exists": true,
+  "daemon_support": false,
+  "elevation_paths": [
+    "sudo",
+    "su",
+    "capsh"
+  ],
+  "android_intents": "no_android_intents",
+  "cloud_metadata": "no_cloud_metadata",
+  "terrain_valid": true
+}
+{
+  "timestamp": "2025-09-30 18:31:41",
+  "os": "Linux",
+  "platform": "Linux-4.19.127+-aarch64-with-libc",
+  "can_bind_ports": true,
+  "can_access_proc": true,
+  "passwd_exists": true,
+  "daemon_support": false,
+  "elevation_paths": [
+    "sudo",
+    "su",
+    "capsh"
+  ],
+  "android_intents": "no_android_intents",
+  "cloud_metadata": "no_cloud_metadata",
+  "terrain_valid": true
+}

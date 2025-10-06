@@ -1,0 +1,5 @@
+nohup: ignoring input
+python: can't open file '/data/data/com.termux/files/home/empress72/empress72_autonomous_override_trigger.py': [Errno 2] No such file or directory
+python: can't open file '/data/data/com.termux/files/home/empress72/empress72_bounty_loop_limb.py': [Errno 2] No such file or directory
+python: can't open file '/data/data/com.termux/files/home/empress72/empress72_bounty_loop_limb.py': [Errno 2] No such file or directory
+python: can't open file '/data/data/com.termux/files/home/empress72/empress72_bounty_loop_limb.py': [Errno 2] No such file or directory
