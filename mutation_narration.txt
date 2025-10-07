@@ -20,3 +20,42 @@ Absorbed full GitHub dynasty into EMPRESS72AppShell
     ]
   }
 }
+
+--- Bounty Injector Sweep @ 2025-10-07T00:23:36.316640 ---
+{
+  "timestamp": "2025-10-07T00:23:36.316640",
+  "absorbed": [],
+  "errors": [
+    "Freecash: HTTPSConnectionPool(host='api.freecash.com', port=443): Max retries exceeded with url: /offers (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x77ecbb7b60>: Failed to resolve 'api.freecash.com' ([Errno 7] No address associated with hostname)\"))",
+    "BrandedSurveys: HTTPSConnectionPool(host='api.brandedsurveys.com', port=443): Max retries exceeded with url: /tasks (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x77ecc0cc20>: Failed to resolve 'api.brandedsurveys.com' ([Errno 7] No address associated with hostname)\"))",
+    "EarnHaus: HTTPSConnectionPool(host='api.earnhaus.com', port=443): Max retries exceeded with url: /surveys (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x77ecc0cfb0>: Failed to resolve 'api.earnhaus.com' ([Errno 7] No address associated with hostname)\"))",
+    "Prolific: Expecting value: line 1 column 1 (char 0)",
+    "Respondent: 'str' object has no attribute 'get'"
+  ]
+}
+
+--- Bounty Injector Sweep @ 2025-10-07T00:30:06.860983 ---
+{
+  "timestamp": "2025-10-07T00:30:06.860983",
+  "absorbed": [],
+  "errors": [
+    "Freecash: HTTPSConnectionPool(host='api.freecash.com', port=443): Max retries exceeded with url: /offers (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7cafcfbe90>: Failed to resolve 'api.freecash.com' ([Errno 7] No address associated with hostname)\"))",
+    "BrandedSurveys: HTTPSConnectionPool(host='api.brandedsurveys.com', port=443): Max retries exceeded with url: /tasks (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7cafa4cc50>: Failed to resolve 'api.brandedsurveys.com' ([Errno 7] No address associated with hostname)\"))",
+    "EarnHaus: HTTPSConnectionPool(host='api.earnhaus.com', port=443): Max retries exceeded with url: /surveys (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x7cafa4cfe0>: Failed to resolve 'api.earnhaus.com' ([Errno 7] No address associated with hostname)\"))",
+    "Prolific: Failed to parse JSON (Expecting value: line 1 column 1 (char 0))",
+    "Respondent: Unexpected data format or empty list"
+  ]
+}
+
+--- Terrain-Aware Bounty Injector @ 2025-10-07T00:46:28.107036 ---
+{
+  "timestamp": "2025-10-07T00:46:28.107036",
+  "absorbed": [],
+  "errors": [
+    "Freecash: Terrain blocked (api.freecash.com unreachable)",
+    "BrandedSurveys: Terrain blocked (api.brandedsurveys.com unreachable)",
+    "EarnHaus: Terrain blocked (api.earnhaus.com unreachable)",
+    "Prolific: Failed to parse JSON (Expecting value: line 1 column 1 (char 0))",
+    "Respondent: Unexpected data format or empty list"
+  ]
+}
