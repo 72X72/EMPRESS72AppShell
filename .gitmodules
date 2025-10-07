@@ -10,3 +10,6 @@
 [submodule "EmpressThrone72"]
 	path = EmpressThrone72
 	url = https://github.com/72X72/EmpressThrone72
+[submodule "EmpressThronee"]
+	path = EmpressThronee
+	url = https://github.com/72X72/EmpressThronee
