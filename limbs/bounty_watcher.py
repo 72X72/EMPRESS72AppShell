@@ -1,6 +1,2 @@
 #!/usr/bin/env python3
-import time,os
-LOG=os.path.expanduser("~/empress72/bounty.log")
-while True:
- with open(LOG,"a") as f:f.write(f"[{time.strftime("%Y-%m-%d %H:%M:%S")}] EMPRESS72 bounty watcher scanned terrain.\n")
- time.sleep(120)
+print('[EMPRESS72] bounty_watcher.py fused and ready.')
